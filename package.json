@@ -1,0 +1,24 @@
+{
+  "name": "todolist-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexander16108/todoList-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexander16108/todoList-test/issues"
+  },
+  "homepage": "https://github.com/alexander16108/todoList-test#readme",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.2.4"
+  }
+}
